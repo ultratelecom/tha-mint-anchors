@@ -1,7 +1,7 @@
 {
-  "headSeq": 18,
-  "headHash": "2be5432ee71b2596ee138768cc281ecefb48da4177e0b4378d535e01c29e6ead",
-  "entries": 18,
+  "headSeq": 38,
+  "headHash": "dec5812d1e00ebb23b721bef1c030045a59d84a0e0b808a5dc69573ec75c2b1a",
+  "entries": 38,
   "chainOk": true,
-  "anchoredAt": "2026-08-17T07:20:05.543Z"
+  "anchoredAt": "2026-08-18T07:20:00.648Z"
 }
